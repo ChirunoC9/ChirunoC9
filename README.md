@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is ChirunoC9.
+
 - :thought_balloon: :bulb: :balloon: An active XCPCer
 - :book: Major in computer science and technology
 - :gear: C / C++ / C# / Python / Java
